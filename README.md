@@ -4,6 +4,11 @@ KNTG Polygon 23z project from mrowkojady team
 # Project style guide
 - https://github.com/Allar/ue5-style-guide
 
+# Assumptions
+- Environment (so far): Windows PC
+- Engine: Unreal Engine 5.3
+- Features: Nanite, Lumen, VSMs, Multiplayer (EOS?)
+
 # Credits
 - Lisowisko: programmer
 - Grzybojad: programmer
