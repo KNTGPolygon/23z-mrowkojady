@@ -17,3 +17,6 @@ KNTG Polygon 23z project from mrowkojady team
 - Kit: 3d artist, character 3d art
 
 more to be added ;)
+
+main is the stable branch
+please pull request your branches into dev branch
